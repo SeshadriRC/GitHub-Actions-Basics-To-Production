@@ -68,6 +68,12 @@ cd GitHub-Actions-Basics-To-Production/01-GitHub-Actions
 
 Each folder aligns with the corresponding video and builds on previous concepts.
 
+
+---
+
+- [Day-1: What is GitHub Actions | Build Your First Workflow from Scratch](https://github.com/SeshadriRC/GitHub-Actions-Basics-To-Production/tree/main/01-GitHub-Actions)
+- 
+
 ---
 
 ## Stay Connected
